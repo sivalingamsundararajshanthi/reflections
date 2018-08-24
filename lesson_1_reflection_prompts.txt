@@ -1,0 +1,79 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    
+I was able to find the bug so that it can be corrected.
+
+
+How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+    
+We can revert back to previous version of a file if we mess up.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+pros:
+For small files this is fine.
+
+cons:
+For larger files this can become tedious.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    
+Version control systems save the same file while google docs saves the same file in different format.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+Fill in your answer here
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    
+Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If we mess up we can go back to the older version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros:
+The commits are reasonable.
+
+cons:
+We can forget to commit which can and will lead to disaster.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+That's because git stores project files as repos.
+
+How can you use the commands git log and git diff to view the history of files?
+
+log is used to view the history of commits
+diff is used to see lines that were added or deleted.
+
+How might using version control make you more confident to make changes that could break something?
+
+We can revert back to previous commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For version control.
