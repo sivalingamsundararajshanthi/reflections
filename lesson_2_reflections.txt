@@ -5,3 +5,7 @@ This is used to initialize the directory as a repository and it doesn't have any
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It acts as a intermediate layer between the working directory and the commit. This is used to keep track of all the files we need to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can modify and add it to the staging area before we commit.
