@@ -17,3 +17,7 @@ Branches would be helpful when we are testing out new features without affecting
 How do the diagrams help you visualize the branch structure?
 
 It helps us better understand how branches in git works and also how certaain commits are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is that it merges both the brancges together.
