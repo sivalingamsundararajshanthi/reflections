@@ -13,3 +13,7 @@ We can modify and add it to the staging area before we commit.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be helpful when we are testing out new features without affecting the mail branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps us better understand how branches in git works and also how certaain commits are unreachable.
